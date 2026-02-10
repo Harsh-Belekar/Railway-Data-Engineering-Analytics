@@ -5,6 +5,8 @@ This project focuses on analyzing railway operational data to uncover patterns, 
 
 It demonstrates data ingestion, cleaning, transformation, exploratory data analysis (EDA), visualization, and business-oriented reporting.
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
 ---
 
 ## 📌 Project Overview
